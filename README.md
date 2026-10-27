@@ -1,4 +1,4 @@
-# About Me:
+#About Me:
 I'm a Computer Science Engineering diploma student passionate about software development, web technologies, and problem-solving.<br><br>I'm currently learning Java, C/C++, Python, Data Structures and Algorithms, and full-stack development.<br><br>**Technologies I'm working with:**<br>- Languages: C, C++, Java, Python, JavaScript<br>- Web: HTML, CSS, JavaScript, Django, Next.js<br>- Backend: Django REST Framework<br>- Database: PostgreSQL, SQLite<br>- Tools: Git, GitHub, Linux<br><br>**Projects:**<br>- **LifeLink** — A healthcare management platform with role-based access and hospital workflows.<br><br>I'm continuously improving my coding, problem-solving, and software engineering skills while building practical projects.<br><br>**Current goals:** Strengthen DSA, improve Java programming, contribute to real-world projects, and prepare for software engineering placements.
 
 
@@ -13,15 +13,15 @@ I'm a Computer Science Engineering diploma student passionate about software dev
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AshishBisht5907&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AshishBisht5907&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=AshishBisht5907&theme=aura&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AshishBisht5907&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=AshishBisht5907&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=AshishBisht5907&icon=1&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

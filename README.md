@@ -1,4 +1,4 @@
-#About Me:
+#  About Me:
 I'm a Computer Science Engineering diploma student passionate about software development, web technologies, and problem-solving.<br><br>I'm currently learning Java, C/C++, Python, Data Structures and Algorithms, and full-stack development.<br><br>**Technologies I'm working with:**<br>- Languages: C, C++, Java, Python, JavaScript<br>- Web: HTML, CSS, JavaScript, Django, Next.js<br>- Backend: Django REST Framework<br>- Database: PostgreSQL, SQLite<br>- Tools: Git, GitHub, Linux<br><br>**Projects:**<br>- **LifeLink** — A healthcare management platform with role-based access and hospital workflows.<br><br>I'm continuously improving my coding, problem-solving, and software engineering skills while building practical projects.<br><br>**Current goals:** Strengthen DSA, improve Java programming, contribute to real-world projects, and prepare for software engineering placements.
 
 

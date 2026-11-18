@@ -1,27 +1,214 @@
-#  About Me:
-I'm a Computer Science Engineering diploma student passionate about software development, web technologies, and problem-solving.<br><br>I'm currently learning Java, C/C++, Python, Data Structures and Algorithms, and full-stack development.<br><br>**Technologies I'm working with:**<br>- Languages: C, C++, Java, Python, JavaScript<br>- Web: HTML, CSS, JavaScript, Django, Next.js<br>- Backend: Django REST Framework<br>- Database: PostgreSQL, SQLite<br>- Tools: Git, GitHub, Linux<br><br>**Projects:**<br>- **LifeLink** — A healthcare management platform with role-based access and hospital workflows.<br><br>I'm continuously improving my coding, problem-solving, and software engineering skills while building practical projects.<br><br>**Current goals:** Strengthen DSA, improve Java programming, contribute to real-world projects, and prepare for software engineering placements.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:06B6D4&height=180&section=header&text=ASHISH%20BISHT&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20Learner%20%7C%20Builder&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ashubisht5907?xtok=c3J3NG43cXdscHd1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashish-bisht-3334943a4?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bishtashu1365@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Welcome+to+my+developer+space.;Building+ideas+into+reality.;Learning.+Coding.+Improving+every+day.;Exploring+Full+Stack+Development." />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AshishBisht5907&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=AshishBisht5907&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AshishBisht5907&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AshishBisht5907&theme=aura&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://komarev.com/ghpvc/?username=AshishBisht5907&style=flat-square&color=0891B2&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/AshishBisht5907?style=flat-square&color=0891B2&label=FOLLOWERS"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AshishBisht5907&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=AshishBisht5907&icon=1&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 01 / About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### Hello, I'm Ashish! 👋
+
+A Computer Science Engineering diploma student interested in software development, full-stack technologies and building practical applications.
+
+- 🎓 Computer Science Engineering Student
+- 💻 Exploring Full Stack Development
+- 🌱 Learning Java, Python and Data Structures
+- ⚙️ Working with Django and Next.js
+- 🗄️ Interested in Backend Development and Databases
+- 🚀 Building practical software projects
+- 🎯 Preparing for software engineering placements
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css&perline=3"/>
+
+<br/><br/>
+
+**MY DEVELOPMENT JOURNEY**
+
+`LEARN` → `BUILD` → `IMPROVE`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 02 / Technology Stack
+
+**Programming Languages**
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js"/>
+</p>
+
+**Web Development**
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,django,tailwind"/>
+</p>
+
+**Database & Tools**
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,git,github,linux,vscode"/>
+</p>
+
+---
+
+## 03 / Featured Project
+
+<table>
+<tr>
+<td>
+
+### 🏥 LifeLink — Healthcare Management System
+
+A full-stack hospital management and healthcare coordination platform designed to organize hospital operations and healthcare workflows.
+
+**Key Features**
+
+- Role-based authentication and access control
+- Patient and staff management
+- Hospital workflow coordination
+- REST API integration
+- Responsive web interface
+
+**Technology Stack**
+
+`Python` `Django` `DRF` `PostgreSQL` `Next.js` `React` `TypeScript` `Tailwind CSS`
+
+**Project Information**
+
+- Duration: 8 Weeks
+- Team Size: 1
+- Role: Full Stack Developer & Project Lead
+- Status: Prototype
+
+<a href="https://github.com/AshishBisht5907/LifeLink-Healthcare">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 04 / GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AshishBisht5907&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=FFFFFF&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishBisht5907&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=FFFFFF"/>
+
+<br/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=AshishBisht5907&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE"/>
+
+</div>
+
+---
+
+## 05 / Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AshishBisht5907&bg_color=0D1117&color=22D3EE&line=0891B2&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 06 / Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AshishBisht5907/AshishBisht5907/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## 07 / Currently Exploring
+
+<details>
+<summary><b>📚 What am I learning?</b></summary>
+
+- Java Programming
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- C and C++ Programming
+- Full Stack Web Development
+- Problem Solving
+
+</details>
+
+<details>
+<summary><b>💡 My Development Interests</b></summary>
+
+- Full Stack Development
+- Backend Engineering
+- Database Management
+- REST API Development
+- Healthcare Technology
+- Artificial Intelligence
+
+</details>
+
+<details>
+<summary><b>🎯 My Goals</b></summary>
+
+- Strengthen programming fundamentals
+- Improve problem-solving skills
+- Build real-world applications
+- Contribute to meaningful projects
+- Prepare for technical placements
+
+</details>
+
+---
+
+## 08 / Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/AshishBisht5907">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ashish-bisht-3334943a4/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/ashubisht5907/">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="mailto:bishtashu1365@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<br/><br/>
+
+**Thanks for visiting my profile!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:0F172A&height=100&section=footer" width="100%"/>
+
+</div>
